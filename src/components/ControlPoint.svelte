@@ -52,6 +52,7 @@
     border-radius: calc(@size / 2);
     background: @blue;
     transform: translate(-50%, -50%);
+    cursor: move;
 
     &--selected {
       background: @yellow;

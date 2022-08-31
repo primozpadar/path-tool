@@ -90,6 +90,7 @@
     border-radius: 5px;
     box-shadow: 0 0 16px 4px rgba(0, 0, 0, 0.2);
     transform: translate(-50%, -50%);
+    cursor: move;
   }
 
   .control-lines {
